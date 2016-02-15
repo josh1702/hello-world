@@ -1,2 +1,2 @@
 # hello-world
-This is the introductory repository for Github
+This is the introductory "hello-world" repository for Github
